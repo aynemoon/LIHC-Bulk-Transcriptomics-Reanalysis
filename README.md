@@ -7,15 +7,6 @@ This independent repository continues the research project originally hosted as 
 ## Scientific scope
 
 The historical analyses cover data acquisition and preparation, differential expression, weighted gene co-expression networks (WGCNA), Gene Ontology enrichment, differential gene correlation (DGCA), and survival associations.
-
-The original report lists Aysan Neghabi, Abolhassan Bahari and Amir Mahdi Mahmoudi. The roles documented by the project owner are:
-
-| Contributor | GitHub | Research roles |
-| --- | --- | --- |
-| Aysan | [@aynemoon](https://github.com/aynemoon) | Data Processing, Data Preparation, Upstream Analysis |
-| Amir | [@amirmahdimahmoudi](https://github.com/amirmahdimahmoudi) | Downstream Analysis |
-| Abolhassan | [@AbolhassanBahari](https://github.com/AbolhassanBahari) | Upstream Analysis, Downstream Analysis, Scientific Advisor |
-
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for attribution and historical Git contributions.
 
 ## Repository guide
