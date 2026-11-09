@@ -7,7 +7,7 @@ This independent repository continues the research project originally hosted as 
 ## Scientific scope
 
 The historical analyses cover data acquisition and preparation, differential expression, weighted gene co-expression networks (WGCNA), Gene Ontology enrichment, differential gene correlation (DGCA), and survival associations.
-See [CONTRIBUTORS.md](CONTRIBUTORS.md) for attribution and historical Git contributions.
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for attribution.
 
 ## Repository guide
 
