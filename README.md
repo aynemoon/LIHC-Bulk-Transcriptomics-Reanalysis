@@ -31,13 +31,3 @@ The original report describes 68 differentially expressed genes and enrichment i
 ## Running the analyses
 
 Read [the reproducibility notes](docs/REPRODUCIBILITY.md) before running the scripts. Original code is preserved byte-for-byte, including its local working directories and dependencies. It is not yet a portable, automated pipeline; package versions and data snapshots are not pinned.
-
-## Contributing
-
-Contributions are welcome through issues and pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md). Proposed methodological changes should be reviewed before replacing historical analyses or results.
-
-## Attribution and reuse
-
-Please acknowledge all three researchers and the [original project](https://github.com/LIHC-pr/LiverCanNet). Original historical Git contributors are retained in the provenance archive. Git commit authorship and research roles are distinct.
-
-No software license was present in the source snapshot; this migration does not introduce one. The publication originally reanalyzed remains to be verified and cited explicitly. This repository documents research analyses, not a validated clinical tool.
